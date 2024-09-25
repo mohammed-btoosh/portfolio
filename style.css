@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  background-color: #f7f7f7;
+}
+
+.nav-link {
+  font-size: 22px;
+}
+
+.diferent-color {
+  color: #0D6EFD;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.skills {
+  color: black;
+  font-weight: bold;
+}
+
+.custom-image {
+  height: 250px;
+  object-fit: cover;
+}
+
+.para {
+  font-size: 20px;
+  color: black;
+}
+
+.view {
+  font-size: 22px;
+  width: 35%;
+}
+
+@media (max-width: 993px) {
+  .none {
+    display: none;
+  }
+}
+
+
